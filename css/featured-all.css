@@ -1,0 +1,42 @@
+#content .featured-all {
+	width: 100%;
+	height: 44em;
+	background-color:#eeeeee;
+	color:#689f38;
+}
+#content .featured-all  .picture {
+	width: 30%;
+	height: 44em;
+	float: left;
+}
+.featured-all  .picture  img {
+	width: 80%;
+	margin: 2.5em;
+}
+.featured-all  .picture .discripted {
+	width: 80%;
+	margin-left: 3em;
+	font-size: 21px
+}
+#content .featured-all  .picture-box{
+	width: 70%;
+	height: 44em;
+	float: right;
+} 
+.featured-all  .picture-box .picture-position {
+	width: 33.33%;
+	height: 11em;
+	float: right;
+}
+.picture-box >.picture-position >img {
+	float:left;
+	width: 40%;
+	margin: 1.2em 1em 0em 1.5em;
+}
+.picture-position .discripttion h4,h5{
+	width: auto;
+	color: #fb8c00;
+}
+.picture-position .discripttion p{
+	color: #8bc34a;
+}

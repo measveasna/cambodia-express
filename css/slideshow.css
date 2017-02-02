@@ -1,0 +1,16 @@
+.after-menu .slideshow  {
+	width: 52%;
+	height: 30em;
+	background-color: #eeeeee;
+}
+.after-menu .slideshow #base-slides {
+	margin: 2.5em 3em; 
+    position: relative; 
+    width: 600px; 
+    height: 400px; 
+    padding: 1px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+#base-slides > div {
+	position:absolute;
+}

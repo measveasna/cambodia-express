@@ -1,0 +1,28 @@
+#footer{
+	width: auto;
+	height: 20em;
+	background-color:#212121;
+	color: #827717;
+}
+#footer .footerleft {
+	float: left;
+	width: 50%;
+	height: 20em;
+}
+.footerleft .exspectapplication{
+	padding-left: 4em; 
+}
+.footerleft .exspectdetail {
+	margin:0em 2em 2em 2em;
+}
+#footer .footerright {
+	float: right;
+	width: 50%;
+	height: 20em;
+}
+.footerright h4{
+	margin:2em;
+}
+.footerright dl{
+	margin:2em;
+}

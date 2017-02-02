@@ -1,0 +1,47 @@
+#content .option {
+	width: 100%;
+	background-color:#efebe9; 
+	height: 23em;
+	/*border-bottom: .35em solid #8bc34a;*/
+}
+#content .option .field {
+	float: left;
+    width: 21.28%;
+    height: 18em;
+    background-color:#e0e0e0;
+    margin: 3%;
+    margin-right: 0;
+    border-radius: 20px;
+    text-align: center;
+}
+#content .option .field img {
+	margin-top: 60px;
+}
+#content .option .field h3 {
+	color: #a1887f;
+	width: 12em;
+	height: 4em;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 0;
+}
+#content .option .field h3:hover {
+	color: #e65100;
+	font-size: 20px;
+	font-style: italic;
+}
+#content .option .field button {
+	border:1px solid #FFFFFF;
+	border-radius: 5px;
+	height: 2em;
+	background-color: #c0ca33;
+}
+#content .option .field button a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#content .option .field button:hover {
+	background-color: #e65100;
+	border: 4px solid #e65100;
+	font-size:15px; 
+}

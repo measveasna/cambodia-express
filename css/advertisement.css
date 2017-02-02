@@ -1,0 +1,20 @@
+.advertisement {
+	width: 24%;
+	height: 30em;
+	float: right;
+	/*background-color: #e0e0e0;*/
+}
+.advertisement .ads1 {
+	width: auto;
+	height: 15em;
+	background-image: url('../img/golden-brown-coffee2.jpg');
+	background-repeat: no-repeat;
+	margin: 0em 1em;
+}
+.advertisement .ads2 {
+	width: auto;
+	height: 15em;
+	background-image: url('../img/LCy6IrPa.png');
+	background-repeat: no-repeat;
+	margin: 0em 2.4em;
+}

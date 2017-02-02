@@ -1,0 +1,34 @@
+.after-menu {
+	height:30em;
+	width: 100%;
+	background-color: #FFFFF;
+} 
+.after-menu > div {
+	float: left;
+}
+.after-menu .category {
+	width: 24%;
+	height: 30em;
+	background-color: #e0e0e0;
+}
+.category h3 {
+	margin-top: 0;
+	padding-top: 2em;
+	color: #fb8c00;
+}
+.category ul, h3 {
+	padding-left:3em;
+}
+.category ul li {
+	list-style: none;
+	list-style-image:url(icon/icons-png/star-black.png);
+	height: 1.6em;
+}
+.category ul li a {
+	text-decoration: none;
+	margin: 2em;
+	color: #a1887f;
+}
+.category ul li a:hover {
+	color: #fb8c00;
+}

@@ -1,0 +1,69 @@
+body { margin: 0 auto;}
+h1, h2, h3, h4 {
+	font-family:"Crimson Text", "Lucida Sans Unicode","Erac Demi ITC", sans-serif;
+}
+#header {
+	height: 15em;
+	background-color: #8bc34a;
+	margin:  auto;
+}
+#header ul { 
+	height: 2em;
+}
+#header li {
+	list-style: none;
+	float: right;
+	padding-top:20px;
+	padding-right: 15px;
+}
+#header button {
+	border:1px solid #FFFFFF;
+	border-radius: 1em 1em 1em 1em;
+	color: #FFFFFF;
+	width: 6em;
+	height: 2em;
+	margin: 2px;
+	padding-bottom: 2px;
+	background-color: #8bc34a
+}
+#header button:hover { 
+	background-color: #ffd600;
+}
+#header .title{
+	padding-left: 10em;
+	height: 9em;
+}
+#header h1 {
+	color: #ffd600;
+	margin: 0;
+}
+#header h4 {
+	color: #FFFFFF;
+	font-family: 'Lucida Handwriting';
+	margin: 0;
+	padding-left: 2em; 
+}
+#header .lang {
+	height: 3em;
+	margin: 0;
+	width: 100%;
+}
+#header .lang #marquee {
+	float: left;
+	height: 3em;
+	width: 93.5%;
+	color:#d50000;
+}
+#header .lang .flag { 
+	height: 3em;
+	width: 6.5%;
+	float: right;
+}
+.lang .flag #khmer {
+	float: left;
+	margin: 12px 0px 12px 12px ;
+}
+.lang .flag #english {
+	float: right;
+	margin:12px;
+}

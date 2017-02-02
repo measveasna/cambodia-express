@@ -1,0 +1,65 @@
+.our-main-service {
+	width: 100%;
+	height: 20em;
+	background-color: #8bc34a;
+}
+.our-main-service .paypall {
+	width: 30%;
+	height: 20em;
+	float: left;
+}
+.paypall table {
+	width: 25%;
+	height: 40%;
+	box-sizing:border-box;
+	padding: 4em 4em 4em 4.4em;
+}
+.paypall table tr td {
+	width: auto;
+	height: auto;
+	border:1px solid #000000;
+}
+.paypall table tr td img {
+	margin: 1em 2em 1em 2em;
+}
+.our-main-service .main-service {
+	width: 40%;
+	height: 20em;
+	float: left;
+}
+.main-service h4 {
+	margin-top:40px; 
+	text-align: center;
+	color: #ffd600; 
+}
+.main-service  .service-info{
+	width: auto;
+	height: 14.55em;
+}
+.main-service  .service-info img {
+	margin: 3em 0em 0em 4em;
+}
+.main-service  .service-info ul {
+	float: right;
+	padding-right: 4em;
+}
+.main-service  .service-info ul li{
+	list-style-image: url('../icon/icons-png/action-black.png');
+	margin: 15px;
+}
+.our-main-service .commercial {
+	float: right;
+	width: 30%;
+	height: 20em;
+}
+.commercial .sub-commercial {
+	margin-top:5.5em;
+}
+.commercial .sub-commercial img {
+	margin: 3em 0em 0em 3.5em;
+}
+.commercial .sub-commercial p{
+	float: right;
+	margin: 3.75em 4em 0em 0em;
+	text-indent: 3px;
+}
